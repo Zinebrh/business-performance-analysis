@@ -53,7 +53,7 @@ Performed queries in PostgreSQL to uncover business insights:
 9. **Subscription Behavior of Repeat Buyers** – Link between loyalty and subscription adoption  
 10. **Revenue Contribution by Age Group** – Identify most valuable demographics  
 
-> SQL queries are included in [`customer_behavior.sql`](customer_behavior_sql_queries.sql)
+> SQL queries are included in [`customer_behavior.sql`](customer_behavior.sql)
 
 ---
 
